@@ -3,10 +3,7 @@ Student in IT Engineering at ETSMtl. Currently working at Stingray as backend de
 # GitHub Statistics
 
 <a href="https://github-readme-stats.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=charlesbourget&show_icons=true&count_private=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbourget&langs_count=10&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesbourget&langs_count=10" />
 </a>
 <br/>
 
