@@ -1,5 +1,5 @@
 # Summary
-Student in IT Engineering at ETSMtl. Currently working at Stingray as backend dev. 🚀
+IT Engineering gradute from ETSMtl. Currently working at Stingray as backend dev. 🚀
 # GitHub Statistics
 
 <a href="https://github-readme-stats.vercel.app">
